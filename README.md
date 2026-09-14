@@ -6,14 +6,6 @@
 
 <img src="./speech_bubble.svg" alt="present day, present time." />
 
-```
-                     ●
-                    /|\
-                   / | \
-                  *  |  *
-                     |
-                    /|\
-```
 
 ### _no matter where you go, everyone's connected._
 
@@ -37,7 +29,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 | Name | Khadim |
 | Also known as | `khadimshiny2-beep` |
 | Base of Operations | Dakar, Senegal |
-| Current Form | LDIA student — Data & AI |
+| Current Form       | 1st year Data & AI student                           |
 | Power | Debugging by staring at the wall in silence |
 | Weakness | Off-by-one errors, dotfiles, 3 AM rabbit holes |
 | Sidekick | A NixOS config that's never quite "done" |
@@ -107,12 +99,7 @@ linkedin  → https://www.linkedin.com/in/ahmadoul-khadim-gueye-b503743a6/
 
 <div align="center">
 
-```
-┌───────────────────────────────────────┐
-│  close the world.                      │
-│  open the next.                        │
-└───────────────────────────────────────┘
-```
+<img src="./speech_bubble2.svg" alt="close the world. open the next." />
 
 <sub>thanks for stopping by the wired.</sub>
 
