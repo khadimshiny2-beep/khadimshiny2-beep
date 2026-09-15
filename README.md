@@ -92,7 +92,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 ```
 email     → khadimparsine2@gmail.com
-portfolio → https://khadimshiny2-beep.github.io/portfolio-web/
+portfolio (french) → https://khadimshiny2-beep.github.io/portfolio-web/
 linkedin  → https://www.linkedin.com/in/ahmadoul-khadim-gueye-b503743a6/
 ```
 
