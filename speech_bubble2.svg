@@ -18,7 +18,7 @@
         fill="#12101c" stroke="#8f7fdb" stroke-width="1.5"/>
 
   <text x="38" y="62" font-family="Consolas, Menlo, 'Courier New', monospace"
-        font-size="22" fill="#cabfff" clip-path="url(#clipA)">close the world.</text>
+        font-size="22" fill="#cabfff" clip-path="url(#clipA)">close the world,</text>
   <text x="38" y="96" font-family="Consolas, Menlo, 'Courier New', monospace"
         font-size="22" fill="#cabfff" clip-path="url(#clipB)">open the next.</text>
 
