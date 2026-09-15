@@ -51,7 +51,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 ---
 
-### 🎒 WHAT'S IN THE LAIR
+### 🎒 INVENTORY
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,rust,html,css,js,linux,nixos,neovim,tmux,jupyter,anaconda,postgres,git" alt="skills" />
@@ -90,11 +90,11 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 ### 🚪 GET ME OUTSIDE OF THE WIRED
 
-```
-email     → khadimparsine2@gmail.com
-portfolio (french) → https://khadimshiny2-beep.github.io/portfolio-web/
-linkedin  → https://www.linkedin.com/in/ahmadoul-khadim-gueye-b503743a6/
-```
+<pre>
+email               → <a href="mailto:khadimparsine2@gmail.com">khadimparsine2@gmail.com</a>
+portfolio (french)  → <a href="https://khadimshiny2-beep.github.io/portfolio-web/">https://khadimshiny2-beep.github.io/portfolio-web/</a>
+linkedin            → <a href="https://www.linkedin.com/in/ahmadoul-khadim-gueye-b503743a6/">https://www.linkedin.com/in/ahmadoul-khadim-gueye-b503743a6/</a>
+</pre>
 
 ---
 
@@ -104,4 +104,4 @@ linkedin  → https://www.linkedin.com/in/ahmadoul-khadim-gueye-b503743a6/
 
 <sub>thanks for stopping by The Wired.</sub>
 
-</div>
+</div>/div>
