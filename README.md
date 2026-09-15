@@ -65,7 +65,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 🦀 rust         → the one still being forged, sharp when it's done
 🗃️ sql          → how you talk to things that remember
 🐘 postgres     → where the memories live
-🌐 html/css/js  → the surface, what the wired shows to outsiders
+🌐 html/css/js  → the surface, what The Wired shows to outsiders
 📓 jupyter      → the notebook where the experiments happen
 📦 conda        → keeping the experiments from contaminating each other
 🐧 linux        → not a tool, a whole way of living
