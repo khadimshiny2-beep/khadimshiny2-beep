@@ -47,7 +47,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 | The Unfinished Portfolio | ▓▓▓░░ | still rendering |
 | The Poorly Mastered Courses| ▓▓▓▓░ | not yet fatal |
 | The Scholarship Deadline | ▓▓▓▓▓ | approaching |
-| The Programming Rabbit Hole | ▓▓▓▓▓ | the bottomless pit  |
+| The Computer Science Rabbit Hole | ▓▓▓▓▓▓▓▓▓ | the bottomless pit  |
 
 ---
 
