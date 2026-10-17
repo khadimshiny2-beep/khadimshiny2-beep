@@ -1,5 +1,14 @@
-
 <div align="center">
+
+<img src="./banner.svg" alt="khadim" width="100%" />
+
+<br/>
+
+<img src="./speech_bubble.svg" alt="present day, present time." />
+
+### _no matter where you go, everyone's connected._
+
+</div>
 
 ---
 
@@ -14,29 +23,29 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 ### 📋 FILE — LAYER 07
 
-| ATTRIBUTE          | VALUE                                                                                             |
-| ------------------ | ------------------------------------------------------------------------------------------------- |
-| Name               | Khadim                                                                                            |
-| Also known as      | `khadimshiny2-beep`/hopemaxxer221                                                               |
-| Base of Operations | Dakar, Senegal                                                                                    |
-| Current Form       | 1st year Data & AI student                                                                        |
-| Power              | Debugging by staring at the wall in silence, always thirsty of learning new skills, Linux enjoyer |
-| Weakness           | Off-by-one errors, dotfiles, 3 AM rabbit holes                                                    |
-| Sidekick           | A NixOS config that's never quite "done" (and will never be)                                      |
-| Catchphrase        | "just one more rice before I sleep"                                                               |
-| Signal             | Serial Experiments Lain, quietly, in the background                                               |
+| ATTRIBUTE | VALUE |
+| --- | --- |
+| Name | Khadim |
+| Also known as | `khadimshiny2-beep`/hopemaxxer221 |
+| Base of Operations | Dakar, Senegal |
+| Current Form | 1st year Data & AI student |
+| Power | Debugging by staring at the wall in silence, always thirsty of learning new skills, Linux enjoyer |
+| Weakness | Off-by-one errors, dotfiles, 3 AM rabbit holes |
+| Sidekick | A NixOS config that's never quite "done" (and will never be) |
+| Catchphrase | "just one more rice before I sleep" |
+| Signal | Serial Experiments Lain, quietly, in the background |
 
 ---
 
 ### 👁️ THINGS LURKING IN THE WIRED
 
-| ENTITY                           | THREAT LEVEL       | STATUS             |
-| -------------------------------- | ------------------ | ------------------ |
-| The Merge Conflict               | ▓▓▓▓░         | contained, barely  |
-| Segfault at 2 AM                 | ▓▓▓▓▓         | undefeated         |
-| The Unfinished Portfolio         | ▓▓▓░░         | still rendering    |
-| The Poorly Mastered Courses      | ▓▓▓▓░         | not yet fatal      |
-| The Scholarship Deadline         | ▓▓▓▓▓         | approaching        |
+| ENTITY | THREAT LEVEL | STATUS |
+| --- | --- | --- |
+| The Merge Conflict | ▓▓▓▓░ | contained, barely |
+| Segfault at 2 AM | ▓▓▓▓▓ | undefeated |
+| The Unfinished Portfolio | ▓▓▓░░ | still rendering |
+| The Poorly Mastered Courses | ▓▓▓▓░ | not yet fatal |
+| The Scholarship Deadline | ▓▓▓▓▓ | approaching |
 | The Computer Science Rabbit Hole | ▓▓▓▓▓▓▓▓▓ | the bottomless pit |
 
 ---
@@ -72,6 +81,19 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=khadimshiny2-beep&theme=dark&background=12101C&ring=A08CFF&fire=B9A6FF&currStreakNum=E8E6F7&currStreakLabel=B9A6FF&sideNums=E8E6F7&sideLabels=7C6FAE&dates=7C6FAE&stroke=2A2440&border=2A2440&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streak" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide_border=false&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&ring_color=a08cff&rank_icon=github&include_all_commits=true&custom_title=Wired%20Status" alt="stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimshiny2-beep&layout=compact&hide_border=false&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&border_color=2a2440&custom_title=Languages%20in%20the%20Wired&langs_count=8" alt="top languages" height="170" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadimshiny2-beep&bg_color=12101c&color=b9a6ff&line=a08cff&point=e8e6f7&area=true&area_color=7c6fae&hide_border=true&title_color=b9a6ff&custom_title=Pulse%20of%20the%20Wired" alt="activity graph" width="100%" />
+
+</div>
+
 ---
 
 ### 📡 MISSION LOG
@@ -98,3 +120,9 @@ linkedin            → <a href="https://www.linkedin.com/in/ahmadoul-khadim-gue
 ---
 
 <div align="center">
+
+<img src="./speech_bubble2.svg" alt="close the world, open the next." />
+
+<sub>thanks for stopping by The Wired.</sub>
+
+</div>
