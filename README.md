@@ -81,7 +81,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=B9A6FF&center=true&vCenter=true&width=460&height=30&lines=%3E+connecting+to+the+wired...;%3E+signal+acquired.;%3E+just+one+more+commit+before+I+sleep." alt="connecting to the wired" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=B9A6FF&center=true&vCenter=true&width=560&height=30&lines=%3E+connecting+to+the+wired...;%3E+signal+acquired.;%3E+just+one+more+commit+before+I+sleep." alt="connecting to the wired" />
 
 <br/><br/>
 
@@ -89,7 +89,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide=contribs&hide_rank=true&card_width=420&line_height=28&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&include_all_commits=true&custom_title=Wired%20Status" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide=contribs&hide_rank=true&card_width=420&line_height=28&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&custom_title=Wired%20Status" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimshiny2-beep&layout=donut&hide=jupyter%20notebook&langs_count=6&card_width=420&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&border_color=2a2440&custom_title=Languages%20in%20the%20Wired" alt="top languages" />
 
 </div>
