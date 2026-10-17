@@ -89,7 +89,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide=contribs&hide_rank=true&card_width=420&line_height=28&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&custom_title=Wired%20Status" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide=contribs&hide_rank=true&card_width=420&line_height=28&commits_year=2026&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&custom_title=Wired%20Status" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimshiny2-beep&layout=donut&hide=jupyter%20notebook&langs_count=6&card_width=420&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&border_color=2a2440&custom_title=Languages%20in%20the%20Wired" alt="top languages" />
 
 </div>
