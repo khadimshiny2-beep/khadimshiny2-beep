@@ -81,16 +81,16 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=khadimshiny2-beep&theme=dark&background=12101C&ring=A08CFF&fire=B9A6FF&currStreakNum=E8E6F7&currStreakLabel=B9A6FF&sideNums=E8E6F7&sideLabels=7C6FAE&dates=7C6FAE&stroke=2A2440&border=2A2440&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="streak" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=B9A6FF&center=true&vCenter=true&width=460&height=30&lines=%3E+connecting+to+the+wired...;%3E+signal+acquired.;%3E+just+one+more+commit+before+I+sleep." alt="connecting to the wired" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=khadimshiny2-beep&theme=dark&background=12101C&ring=A08CFF&fire=B9A6FF&currStreakNum=E8E6F7&currStreakLabel=B9A6FF&sideNums=E8E6F7&sideLabels=7C6FAE&dates=7C6FAE&stroke=2A2440&border=2A2440&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide_border=false&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&ring_color=a08cff&rank_icon=github&include_all_commits=true&custom_title=Wired%20Status" alt="stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimshiny2-beep&layout=compact&hide_border=false&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&border_color=2a2440&custom_title=Languages%20in%20the%20Wired&langs_count=8" alt="top languages" height="170" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khadimshiny2-beep&bg_color=12101c&color=b9a6ff&line=a08cff&point=e8e6f7&area=true&area_color=7c6fae&hide_border=true&title_color=b9a6ff&custom_title=Pulse%20of%20the%20Wired" alt="activity graph" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=khadimshiny2-beep&show_icons=true&hide=contribs&hide_rank=true&card_width=420&line_height=28&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&icon_color=a08cff&border_color=2a2440&include_all_commits=true&custom_title=Wired%20Status" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimshiny2-beep&layout=donut&hide=jupyter%20notebook&langs_count=6&card_width=420&bg_color=12101c&title_color=b9a6ff&text_color=e8e6f7&border_color=2a2440&custom_title=Languages%20in%20the%20Wired" alt="top languages" />
 
 </div>
 
