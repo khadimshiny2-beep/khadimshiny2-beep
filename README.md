@@ -85,10 +85,6 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=khadimshiny2-beep&theme=dark&background=12101C&ring=A08CFF&fire=B9A6FF&currStreakNum=E8E6F7&currStreakLabel=B9A6FF&sideNums=E8E6F7&sideLabels=7C6FAE&dates=7C6FAE&stroke=2A2440&border=2A2440&date_format=j%20M%5B%20Y%5D" alt="streak" />
-
-<br/>
-
 <img src="./github-metrics.svg" alt="wired metrics" width="100%" />
 
 </div>
