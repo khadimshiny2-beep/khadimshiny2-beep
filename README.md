@@ -29,7 +29,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 | Also known as | `khadimshiny2-beep`/hopemaxxer221 |
 | Base of Operations | Dakar, Senegal |
 | Current Form | 1st year Data & AI student |
-| Power | Debugging by staring at the wall in silence, always thirsty of learning new skills, Linux enjoyer |
+| Power | Debugging by staring at the wall in silence, writinh .sh scripts for everything, larping Linux|
 | Weakness | Off-by-one errors, dotfiles, 3 AM rabbit holes |
 | Sidekick | A NixOS config that's never quite "done" (and will never be) |
 | Catchphrase | "just one more rice before I sleep" |
@@ -37,13 +37,13 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 ---
 
-### 👁️ THINGS LURKING IN THE WIRED
+### 👁️ THREAT AGAINST THE WIRED
 
 | ENTITY | THREAT LEVEL | STATUS |
 | --- | --- | --- |
-| The Merge Conflict | ▓▓▓▓░ | contained, barely |
-| Segfault at 2 AM | ▓▓▓▓▓ | undefeated |
-| The Unfinished Portfolio | ▓▓▓░░ | still rendering |
+| The Merge Conflict | ▓▓▓░░ | contained, barely |
+| Segfault at 2 AM | ▓▓▓▓▓ | undefeated until AI steps in |
+| The Unfinished Portfolio | ▓░░░░ | still rendering |
 | The Poorly Mastered Courses | ▓▓▓▓░ | not yet fatal |
 | The Scholarship Deadline | ▓▓▓▓▓ | approaching |
 | The Computer Science Rabbit Hole | ▓▓▓▓▓▓▓▓▓ | the bottomless pit |
@@ -72,7 +72,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 ❄️ nixos        → the lair itself, rebuilt from a single config file
 🅰️ arch/omarchy → the second room, Hyprland glowing in the dark
 🌿 git          → the time machine, undoes mistakes (most of them)
-📝 neovim/fish/zsh  → how you move through it without touching a mouse
+📝 neovim/sh scripting  → how you move through it without touching a mouse
 ```
 
 ---
