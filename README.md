@@ -29,8 +29,8 @@ He's still in there. Still rebuilding. Still not fully connected.
 | Also known as | `khadimshiny2-beep`/hopemaxxer221 |
 | Base of Operations | Dakar, Senegal |
 | Current Form | 1st year Data & AI student |
-| Power | Debugging by staring at the wall in silence, writinh .sh scripts for everything, larping Linux|
-| Weakness | Off-by-one errors, dotfiles, 3 AM rabbit holes |
+| Powers | Debugging by staring at the wall in silence, writing .sh scripts for everything, larping Linux|
+| Weaknesses | Off-by-one errors, math related to CS, 3 AM deep into rabbit holes |
 | Sidekick | A NixOS config that's never quite "done" (and will never be) |
 | Catchphrase | "just one more rice before I sleep" |
 | Signal | Serial Experiments Lain, quietly, in the background |
@@ -46,7 +46,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 | The Unfinished Portfolio | ▓░░░░ | still rendering |
 | The Poorly Mastered Courses | ▓▓▓▓░ | not yet fatal |
 | The Scholarship Deadline | ▓▓▓▓▓ | approaching |
-| The Computer Science Rabbit Hole | ▓▓▓▓▓▓▓▓▓ | the bottomless pit |
+| The Computer Science Rabbit Hole | ▓▓▓▓▓▓▓▓▓▓▓▓ | the bottomless pit |
 
 ---
 
