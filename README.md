@@ -72,7 +72,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 ❄️ nixos        → the lair itself, rebuilt from a single config file
 🅰️ arch/omarchy → the second room, Hyprland glowing in the dark
 🌿 git          → the time machine, undoes mistakes (most of them)
-📝 neovim/sh scripting  → how you move through it without touching a mouse
+📝 bash scripting  → how to give orders without touching a mouse
 ```
 
 ---
