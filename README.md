@@ -29,7 +29,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 | Also known as | `khadimshiny2-beep`/hopemaxxer221 |
 | Base of Operations | Dakar, Senegal |
 | Current Form | 1st year Data & AI student |
-| Powers | Debugging by staring at the wall in silence, writing .sh scripts for everything, larping Linux|
+| Powers | Debugging by staring at the wall in silence, writing .sh scripts for everything, larping Linux |
 | Weaknesses | Off-by-one errors, math related to CS, 3 AM deep into rabbit holes |
 | Sidekick | A NixOS config that's never quite "done" (and will never be) |
 | Catchphrase | "just one more rice before I sleep" |
@@ -41,7 +41,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 | ENTITY | THREAT LEVEL | STATUS |
 | --- | --- | --- |
-| The Merge Conflict | ▓▓▓░░ | contained, barely |
+| Optimization & Linear Algebra | ▓▓▓░░ | contained, barely |
 | Segfault at 2 AM | ▓▓▓▓▓ | undefeated until AI steps in |
 | The Unfinished Portfolio | ▓░░░░ | still rendering |
 | The Poorly Mastered Courses | ▓▓▓▓░ | not yet fatal |
