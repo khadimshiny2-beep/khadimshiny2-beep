@@ -37,7 +37,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 
 ---
 
-### 👁️ THREAT AGAINST THE WIRED
+### 👁️ THREATS
 
 | ENTITY | THREAT LEVEL | STATUS |
 | --- | --- | --- |
