@@ -45,7 +45,7 @@ He's still in there. Still rebuilding. Still not fully connected.
 | Segfault at 2 AM | ▓▓▓▓▓ | undefeated until AI steps in |
 | The Unfinished Portfolio | ▓░░░░ | still rendering |
 | The Poorly Mastered Courses | ▓▓▓▓░ | not yet fatal |
-| The Scholarship Deadline | ▓▓▓▓▓ | approaching |
+| The Assignements Deadline | ▓▓▓▓▓ | approaching |
 | The Computer Science Rabbit Hole | ▓▓▓▓▓▓▓▓▓▓▓▓ | the bottomless pit |
 
 ---
