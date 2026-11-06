@@ -23,6 +23,8 @@ TOKEN = os.environ.get("METRICS_TOKEN") or os.environ.get("GITHUB_TOKEN")
 # Notebook "bytes" are mostly cell output, not code, so they skew the chart.
 # Remove an entry (or empty the set) to count it.
 EXCLUDE_LANGS = {"Jupyter Notebook"}
+# Repos that are dumps of course material / generated exports, not authored code.
+EXCLUDE_REPOS = {"mes-cours-LDIA-git"}
 MAX_LANGS = 6
 
 # palette (matches banner.svg)
@@ -46,6 +48,7 @@ query($login:String!){
                  orderBy:{field:PUSHED_AT, direction:DESC}){
       totalCount
       nodes{
+        name
         stargazerCount
         languages(first:12, orderBy:{field:SIZE, direction:DESC}){
           edges{ size node{ name } }
@@ -144,6 +147,8 @@ def collect():
     stars, langs = 0, {}
     for repo in me["repositories"]["nodes"]:
         stars += repo["stargazerCount"]
+        if repo["name"] in EXCLUDE_REPOS:
+            continue
         for e in repo["languages"]["edges"]:
             n = e["node"]["name"]
             if n not in EXCLUDE_LANGS:
