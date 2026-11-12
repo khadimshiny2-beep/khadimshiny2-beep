@@ -2,12 +2,11 @@ name: Wired Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # twice a day
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:          # run it by hand from the Actions tab
   push:
-    paths:
-      - ".github/workflows/metrics.yml"
-      - ".github/scripts/wired_stats.py"
+    paths-ignore:
+      - "github-metrics.svg"  # avoid loop from the bot commit
 
 permissions:
   contents: write
